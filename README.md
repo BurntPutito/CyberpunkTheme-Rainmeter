@@ -1,9 +1,9 @@
 # cyberpunktheme-rainmeter
-===========================================
+=====================================
 DISCLAIMER: I do not own the GIF background
 I tried connecting to the author but no sign
 of replies.
-===========================================
+=====================================
 
 Project that I was working on our school work immersion
 
