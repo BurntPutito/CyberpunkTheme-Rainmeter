@@ -13,11 +13,11 @@ If you have higher or lower, I'm afraid you have to manually create the layout, 
 This code is not that flexible for I am just a beginner and still exploring stuffs<33
 
 **INSTALLATIOM**
->You must download Rainmeter app and any app that allows you to make GIF become wallpaper such as; Lively or Wallpaper Engine
->Download the ZIP, extract the 'MyCyberpunk' theme and paste it to the root folder of rainmeter skins. Usually the directory
+-You must download Rainmeter app and any app that allows you to make GIF become wallpaper such as; Lively or Wallpaper Engine
+-Download the ZIP, extract the 'MyCyberpunk' theme and paste it to the root folder of rainmeter skins. Usually the directory
 is \Documents\Rainmeter\Skins (not sure though)
->For the wallpaper, I use lively wallpaper app, and downloaded the GIF wallpaper and then set it as wallpaper
->Next, open the Rainmeter app and then you'll see the MyCyberpunk theme and click it
+-For the wallpaper, I use lively wallpaper app, and downloaded the GIF wallpaper and then set it as wallpaper
+-Next, open the Rainmeter app and then you'll see the MyCyberpunk theme and click it
 
 
 
