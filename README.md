@@ -2,7 +2,8 @@
 
 A retro-futuristic desktop customization suite featuring pixel art animations, interactive widgets, and cyberpunk aesthetics.
 
-![Theme Preview](<img width="1919" height="1079" alt="CyberpunkPreview" src="https://github.com/user-attachments/assets/3b6ab507-22af-4815-a48b-689c79e17aa8" />)
+## Theme Preview
+<img width="1919" height="1079" alt="CyberpunkPreview" src="https://github.com/user-attachments/assets/3b6ab507-22af-4815-a48b-689c79e17aa8" />
 
 ## ✨ Features
 
